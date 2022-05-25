@@ -1,0 +1,7 @@
+D:\RPO\Maslov Artemiy\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\RPO\Maslov Artemiy\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\RPO\Maslov Artemiy\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\RPO\Maslov Artemiy\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\RPO\Maslov Artemiy\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\RPO\Maslov Artemiy\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\RPO\Maslov Artemiy\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
